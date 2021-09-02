@@ -1,0 +1,10 @@
+1、注册
+2、生成一个key，并将key copy到github上（电脑重换）
+3、在github上面需要生成一个仓库
+4、将仓库clone到你本地（建立桥梁）
+5、创建分支
+6、git add . git commit -m '注释' git push origin dev
+7、git remote add origin url(打开链接)
+8、git push origin dev
+9、将分支dev合并到master
+10、本地将master资源pull下来，同时删除分支
